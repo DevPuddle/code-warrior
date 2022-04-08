@@ -28,4 +28,4 @@ E:
         everyOther([9, 9, 99, 999, 3]) 
         // [9,99,3]
         everyOther(['rufio', 'is', 'the', 'best', 'yup'])
-        // ['rufio', 'the', 'yup']
+        // ['rufio', 'the', 'yup']]
